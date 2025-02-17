@@ -1,11 +1,11 @@
 # Test Unitario en Python
 
-> Proyecto de pruebas unitarias con `unittest` en Python.
+> Proyecto de pruebas unitarias  en Python.
 
 ##  Tecnologías utilizadas
 
 - Python 
-- Módulo `unittest`
+- Módulo de pruebas `unittest`
 
 ## 📂 Estructura del Proyecto
 
@@ -19,7 +19,7 @@ PRUEBA UNITARIA/
 
 ### 🔹 Prerrequisitos
 
-Asegúrate de tener instalado **Python 3.x** en tu sistema.
+Asegúrate de tener instalado **Python 3.13.2** en tu sistema.
 
 ### 🔹 Clonar el Repositorio
 
@@ -65,5 +65,7 @@ Filtra contenido basado en el historial del usuario.
 
 - GitHub autor: [@farchilap](https://github.com/farchilap)
 - Correo: farchilap1@miumg.edu.gt
+
+- ## FERNANDO ARCHILA / ADMIN TI 
 
 
