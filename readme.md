@@ -1,10 +1,10 @@
-# 📌 Test Unitario en Python
+# Test Unitario en Python
 
 > Proyecto de pruebas unitarias con `unittest` en Python.
 
-## 🛠 Tecnologías utilizadas
+##  Tecnologías utilizadas
 
-- Python 🐍
+- Python 
 - Módulo `unittest`
 
 ## 📂 Estructura del Proyecto
@@ -15,7 +15,7 @@ PRUEBA UNITARIA/
 │── README.md         # Documentación del proyecto
 ```
 
-## 🚀 Instalación y Ejecución
+## Instalación y Ejecución
 
 ### 🔹 Prerrequisitos
 
@@ -34,9 +34,9 @@ cd pruebaunitariafarchilap
 python TESTUNITARIO.py
 ```
 
-## 📌 Funciones probadas
+##  Funciones probadas
 
-### 📌 `calcular_promedio_calificaciones(calificaciones)`
+###  `calcular_promedio_calificaciones(calificaciones)`
 Devuelve el promedio de una lista de calificaciones.
 
 - **Entrada:**  
@@ -48,7 +48,7 @@ Devuelve el promedio de una lista de calificaciones.
   4.2
   ```
 
-### 📌 `recomendar_contenido(historial, contenido_disponible)`
+### `recomendar_contenido(historial, contenido_disponible)`
 Filtra contenido basado en el historial del usuario.
 
 - **Entrada:**
@@ -61,9 +61,9 @@ Filtra contenido basado en el historial del usuario.
   ["video3", "video4"]
   ```
 
-## 👤 Autor
+## Autor
 
-- GitHub: [@farchilap](https://github.com/farchilap)
+- GitHub autor: [@farchilap](https://github.com/farchilap)
 - Correo: farchilap1@miumg.edu.gt
 
-📌 **Si te gusta este proyecto, deja una ⭐ en el repositorio!** 🚀
+
