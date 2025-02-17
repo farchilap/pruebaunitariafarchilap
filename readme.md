@@ -66,6 +66,6 @@ Filtra contenido basado en el historial del usuario.
 - GitHub autor: [@farchilap](https://github.com/farchilap)
 - Correo: farchilap1@miumg.edu.gt
 
-- ## FERNANDO ARCHILA / ADMIN TI 
+- ### FERNANDO ARCHILA / ADMIN TI 
 
 
